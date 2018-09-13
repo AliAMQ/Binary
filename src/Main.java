@@ -3,6 +3,7 @@ Given an integer, convert it to binary. Then find and print the binary value
 and the maximum number of consecutive 1's in the binary representation.
  */
 import java.util.ArrayList;
+import java.util.Stack;
 
 public class Main {
    public static void main(String[] args) {
