@@ -10,7 +10,7 @@ public class Main {
 
         int nmbr = 35;
 
-        Stack<Integer> stack = new Stack();
+        Stack<Integer> stack = new Stack<>();
 
 
         while ((nmbr/2)>=1){
