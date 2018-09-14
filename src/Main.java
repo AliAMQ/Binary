@@ -9,10 +9,11 @@ import java.util.Scanner;
 public class Main {
    public static void main(String[] args) {
 
-       System.out.println("Enter the number:");
+       /*System.out.println("Enter the number:");
        Scanner in = new Scanner(System.in);
+        int nmbr = in.nextInt();*/
 
-        int nmbr = in.nextInt();
+       int nmbr = 35;
 
 
         System.out.println(getNuber(nmbr));
