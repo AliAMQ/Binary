@@ -4,7 +4,7 @@ and the maximum number of consecutive 1's in the binary representation.
  */
 
 import java.util.Stack;
-import java.util.Scanner;
+// import java.util.Scanner;
 
 public class Main {
    public static void main(String[] args) {
